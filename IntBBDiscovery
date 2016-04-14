@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
+        "Name": "Intersect Bounding Box"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -69.2667619361878,
+              40.0924839564022
+            ],
+            [
+              -84.7176130638122,
+              40.0924839564022
+            ],
+            [
+              -84.7176130638122,
+              38.0983861689351
+            ],
+            [
+              -69.2667619361878,
+              38.0983861689351
+            ],
+            [
+              -69.2667619361878,
+              40.0924839564022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00ff00",
+        "fill-opacity": 0.5,
+        "Name": "GeoHashExtended"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.70819220052266,
+              40.09193951648889
+            ],
+            [
+              -78.27618279947735,
+              40.09193951648889
+            ],
+            [
+              -78.27618279947735,
+              38.098930608848306
+            ],
+            [
+              -75.70819220052266,
+              38.098930608848306
+            ],
+            [
+              -75.70819220052266,
+              40.09193951648889
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#000000",
+        "fill-opacity": 0.5,
+        "Name": "GeoHash"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.640625,
+              39.3682791491601
+            ],
+            [
+              -77.34375,
+              39.3682791491601
+            ],
+            [
+              -77.34375,
+              38.8225909761771
+            ],
+            [
+              -76.640625,
+              38.8225909761771
+            ],
+            [
+              -76.640625,
+              39.3682791491601
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0000ff",
+        "fill-opacity": 0.5,
+        "Name": "UserBoundingBox"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.3380374622307,
+              39.89701257800341
+            ],
+            [
+              -78.20536253776929,
+              39.89701257800341
+            ],
+            [
+              -78.20536253776929,
+              38.44938742199658
+            ],
+            [
+              -76.3380374622307,
+              38.44938742199658
+            ],
+            [
+              -76.3380374622307,
+              39.89701257800341
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.5,
+        "Name": "GeoHashCalculated"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.64082005287689,
+              39.36813016219754
+            ],
+            [
+              -77.34355494712312,
+              39.36813016219754
+            ],
+            [
+              -77.34355494712312,
+              38.82273996313967
+            ],
+            [
+              -76.64082005287689,
+              38.82273996313967
+            ],
+            [
+              -76.64082005287689,
+              39.36813016219754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ffff",
+        "marker-size": "small",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2717,
+          39.1732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9921875,
+          39.0954350626686
+        ]
+      }
+    }
+  ]
+}
